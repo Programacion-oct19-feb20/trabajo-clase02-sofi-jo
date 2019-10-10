@@ -1,0 +1,4 @@
+
+¿Qué es un programa?
+
+Es un conjunto de instrucciones que permiten ordenar a una computadora un proceso de resolución 
